@@ -1,0 +1,11 @@
+// Nam
+game "Heart of Evil"
+url_info "http://www.planethalflife.com/heartofevil/"
+url_dl "http://www.planethalflife.com/heartofevil/"
+version "1.02"
+size "228511462"
+cldll "1"
+type "singleplayer_only"
+startmap "nama0"
+trainmap "village"
+gamedll "dlls\hl.dll"
